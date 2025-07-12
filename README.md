@@ -37,15 +37,6 @@
 
 ---
 
-<!-- Projects -->
-<h2>🚀 Projects</h2>
-
-<ul>
-  <li>📝 <a href="https://taskmanager.devzur.com" target="_blank">Task Manager App</a> – Web-based task manager with reminders and responsive UI</li>
-  <li>🌐 <a href="https://sharkawi.devzur.com" target="_blank">Portfolio</a> – Personal portfolio showcasing dev and design work</li>
-</ul>
-
----
 
 <!-- Stats -->
 <h2>📊 GitHub Stats</h2>

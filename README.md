@@ -9,14 +9,13 @@
 ---
 
 <!-- About -->
-<h2>🧑‍💻 About Me</h2>
+<h2>👨🏻‍💻 About Me</h2>
 
 <ul>
   <li>🎓 Computer Engineering Student</li>
   <li>💼 Building smart digital experiences at <a href="https://devzur.com" target="_blank">Devzur</a></li>
   <li>🌍 Based in Lebanon</li>
   <li>📱 Passionate about mobile, web, and interactive UI</li>
-  <li>🎨 Also a graphic designer & brand identity specialist</li>
 </ul>
 
 ---
